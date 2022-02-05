@@ -3,9 +3,9 @@
 На портале представлен комплект документации проекта «Прогноз и планирование рабочих смен» для оценки работы технического писателя Сарыглара Орлана, а именно артефакты:
 
 - [Техническое задание](https://github.com/comptech-winter-school/shift-planning/blob/main/docs/ТЗ.md);
-- Руководство пользователя.
+- [Руководство пользователя](https://github.com/comptech-winter-school/shift-planning/blob/main/docs/source/user_guide.md).
 
-README-файл расположен в корневой папке Github-репозитория «Прогноз и планирование рабочих смен».
+README-файл расположен в корневой папке Github-репозитория [Прогноз и планирование рабочих смен»](https://github.com/comptech-winter-school/shift-planning).
 
 Далее приведено описание концепции Продукта - vision.
 
