@@ -32,7 +32,14 @@
 ### Требования к информационной и программной совместимости
  
 Интерпретатор Python
-Библиотеки: pandas, seaborn , numpy, sklearn, random, matplotlib, sympy, lightgbm, tqdm, importlib
+Библиотеки: 
+numpy
+pandas
+matplotlib
+scikit-learn
+category-encoders
+holidays
+ortools
  
 ## Требования к программной документации
  
