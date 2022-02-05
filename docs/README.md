@@ -2,7 +2,7 @@
 
 На портале представлен комплект документации проекта «Прогноз и планирование рабочих смен» для оценки работы технического писателя `<Сарыглара Орлана Александровича>`, а именно артефакты:
 
-- [Техническое задание](https://github.com/comptech-winter-school/shift-planning/blob/main/docs/ТЗ.md);
+- [Техническое задание](https://github.com/comptech-winter-school/shift-planning/blob/main/docs/tz.md);
 - [Руководство пользователя](https://github.com/comptech-winter-school/shift-planning/blob/main/docs/source/user_guide.md).
 
 README-файл расположен в корневой папке Github-репозитория [Прогноз и планирование рабочих смен»](https://github.com/comptech-winter-school/shift-planning).
