@@ -12,7 +12,7 @@
 
 Схема проекта
 
-[Схема проекта_](/docs/source/common_view_of_project.svg)
+[Схема проекта_](./common_view_of_project.svg)
 
 ## Целевая аудитория (пользователи продукта)
 
